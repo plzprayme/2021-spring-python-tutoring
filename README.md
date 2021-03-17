@@ -98,4 +98,4 @@
 - [Github 계정](https://github.com/)
 - [한남대학교 이메일](http://www.hannam.ac.kr/life/life_0701.html)
 - [프로그래머스 계정](https://programmers.co.kr/)
-- [백준 온라인 저지 계정](
+- [백준 온라인 저지 계정](https://www.acmicpc.net/)  
